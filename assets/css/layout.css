@@ -1,0 +1,39 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+.row::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.col-2 {
+  width: 66.66%;
+  float: left;
+  /* border: 2px solid #2bdf31; */
+}
+
+.col-3 {
+  width: 33.33%;
+  float: left;
+  padding-right: 30px;
+  /* border: 2px solid #ffff00; */
+}
+
+.col-3grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
+}
+
+/* .wrapper{
+border: 5px solid#ff0000;
+} */
+
+.clearfix {
+  clear: both;
+  /* border: 2px solid #19ae61; */
+}

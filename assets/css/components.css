@@ -1,0 +1,38 @@
+img {
+  width: 100%;
+  margin-bottom: 15px;
+  margin-top: 30px;
+}
+
+.line-1 {
+  border-bottom: 0.5px solid #ffffff;
+  display: block;
+  width: 97.5%;
+  padding-top: 25px;
+}
+
+.line-2 {
+  border-bottom: 0.5px solid #ffffff;
+  display: block;
+  width: 97.5%;
+  padding-top: 40px;
+}
+
+.line-3 {
+  border-bottom: 0.5px solid #ffffff;
+  display: block;
+  width: 97.5%;
+  padding-top: 40px;
+}
+
+.youtubelink {
+  width: 100%;
+  margin-bottom: 15px;
+  margin-top: 30px;
+}
+
+/* .map {
+  width: 100%;
+  margin-bottom: 15px;
+  margin-top: 30px;
+} */
